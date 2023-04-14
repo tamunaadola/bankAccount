@@ -1,2 +1,2 @@
 # bankAcount
-https://tamunaadola.github.io/bankAcount/
+https://tamunaadola.github.io/bankAccount/
